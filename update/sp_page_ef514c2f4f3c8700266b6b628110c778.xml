@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <css/>
+        <draft>false</draft>
+        <id>hmpg</id>
+        <internal>false</internal>
+        <public>true</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-31 06:06:09</sys_created_on>
+        <sys_id>ef514c2f4f3c8700266b6b628110c778</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hmpg</sys_name>
+        <sys_package display_value="TimeSheet and LMS" source="x_132622_timesheet">53d0842f4f3c8700266b6b628110c729</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TimeSheet and LMS">53d0842f4f3c8700266b6b628110c729</sys_scope>
+        <sys_update_name>sp_page_ef514c2f4f3c8700266b6b628110c778</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-31 06:06:09</sys_updated_on>
+        <title>Home Page</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=ef514c2f4f3c8700266b6b628110c778"/>
+</record_update>
